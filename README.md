@@ -1,3 +1,13 @@
+# Table of contents
+
+- [The Things About C++](#the-things-about-c)
+  - [Design Patterns](#design-patterns)
+  - [Bit Flags](#bit-flags)
+  - [GUI](#gui)
+- [Security](#security)
+  - [Executable Formats](#executable-formats)
+  - [Backdoor](#backdoor)
+
 # The Things About C++
 
 - [C++ Tips of the Week](https://abseil.io/tips/)
