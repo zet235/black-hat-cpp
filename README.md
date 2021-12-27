@@ -1,4 +1,4 @@
-# Table of contents
+# Black Hat C++
 
 - [The Things About C++](#the-things-about-c)
   - [Design Patterns](#design-patterns)
@@ -29,16 +29,39 @@
 - [enum-flags](https://github.com/grisumbras/enum-flags) - Bit flags for C++11 scoped enums
 - [bitmask](https://github.com/oliora/bitmask) - A generic implementation of the BitmaskType C++ concept
 
+## JSON
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+
+## Network
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+- [cpr](https://github.com/libcpr/cpr) - Curl for People, a spiritual port of Python Requests.
+- [oatpp](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework
+
 ## GUI
 - [imgui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 
 # Security
-- [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
+
+## Detector
 - [memhunter](https://github.com/marcosd4h/memhunter) - Live hunting of code injection techniques
 - [pe-sieve](https://github.com/hasherezade/pe-sieve) - Recognizes and dumps a variety of potentially malicious implants
 - [hollows hunter](https://github.com/hasherezade/hollows_hunter) - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 - [BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
+- [CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected) - 40行代码检测到大部分CobaltStrike的shellcode
+
+
+## Memory Hacking
+- [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
+- [herpaderping](https://github.com/jxy-s/herpaderping) - bypasses security products by obscuring the intentions of a process
+
+## Anti
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
+- [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
+
+## Windwos API
+- [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
 
 ## Executable Formats
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats
