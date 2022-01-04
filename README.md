@@ -62,6 +62,8 @@
 
 ## Windwos API
 - [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
+- [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
+- [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
 
 ## Executable Formats
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats
