@@ -3,8 +3,17 @@
 - [The Things About C++](#the-things-about-c)
   - [Design Patterns](#design-patterns)
   - [Bit Flags](#bit-flags)
+  - [JSON](#json)
+  - [Network](#network)
   - [GUI](#gui)
 - [Security](#security)
+  - [Detector](#detector)
+  - [Memory Hacking](#memory-hacking)
+  - [Anti](#anti)
+  - [Windwos API](#windwos-api)
+  - [Hook](#hook)
+  - [Binary Analysis](#binary-analysis)
+  - [fuzzing](#fuzzing)
   - [Executable Formats](#executable-formats)
   - [Backdoor](#backdoor)
 
@@ -50,24 +59,37 @@
 - [BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
 - [CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected) - 40行代码检测到大部分CobaltStrike的shellcode
 
-
 ## Memory Hacking
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [herpaderping](https://github.com/jxy-s/herpaderping) - bypasses security products by obscuring the intentions of a process
+- [pinjectra](https://github.com/SafeBreach-Labs/pinjectra) - Pinjectra is a C/C++ OOP-like library that implements Process Injection techniques
+- [PowerLoaderEx](https://github.com/BreakingMalware/PowerLoaderEx) - PowerLoaderEx - Advanced Code Injection Technique for x32 / x64
 
 ## Anti
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
+- [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
 
 ## Windwos API
 - [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
 - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
+- [CallObfuscator](https://github.com/d35ha/CallObfuscator) - Obfuscate specific windows apis with different apis
+- [UnhookMe](https://github.com/mgeeky/UnhookMe) - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
+
+## Hook
+- [InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
+
+## Binary Analysis
+- [Triton](https://github.com/JonathanSalwan/Triton) - It provides internal components like a Dynamic Symbolic Execution (DSE) engine
+- [zasm](https://github.com/ZehMatt/zasm) - x86-64 Assembler based on Zydis
+
+## fuzzing
+- [libfuzzer](https://github.com/Dor1s/libfuzzer-workshop) - Repository for materials of "Modern fuzzing of C/C++ Projects" workshop.
 
 ## Executable Formats
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats
 
 ## Backdoor
 - [IIS-Raid](https://github.com/0x09AL/IIS-Raid) - A native backdoor module for Microsoft IIS
-
