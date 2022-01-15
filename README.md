@@ -84,6 +84,8 @@
 ## Binary Analysis
 - [Triton](https://github.com/JonathanSalwan/Triton) - It provides internal components like a Dynamic Symbolic Execution (DSE) engine
 - [zasm](https://github.com/ZehMatt/zasm) - x86-64 Assembler based on Zydis
+- [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
+- [PinTools](https://github.com/JonathanSalwan/PinTools) - Pintool example and PoC for dynamic binary analysis
 
 ## fuzzing
 - [libfuzzer](https://github.com/Dor1s/libfuzzer-workshop) - Repository for materials of "Modern fuzzing of C/C++ Projects" workshop.
