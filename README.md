@@ -80,6 +80,7 @@
 
 ## Hook
 - [InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
+- [minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 
 ## Binary Analysis
 - [Triton](https://github.com/JonathanSalwan/Triton) - It provides internal components like a Dynamic Symbolic Execution (DSE) engine
