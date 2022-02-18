@@ -77,6 +77,8 @@
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
 - [CallObfuscator](https://github.com/d35ha/CallObfuscator) - Obfuscate specific windows apis with different apis
 - [UnhookMe](https://github.com/mgeeky/UnhookMe) - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
+- [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - header only library to make the life of a reverse engineer much harder.
+- [inline_syscall](https://github.com/JustasMasiulis/inline_syscall) - Inline syscalls made easy for windows on clang
 
 ## Hook
 - [InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
