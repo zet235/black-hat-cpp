@@ -80,6 +80,7 @@
 - [UnhookMe](https://github.com/mgeeky/UnhookMe) - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
 - [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - header only library to make the life of a reverse engineer much harder.
 - [inline_syscall](https://github.com/JustasMasiulis/inline_syscall) - Inline syscalls made easy for windows on clang
+- [RefleXXion](https://github.com/hlldz/RefleXXion) - bypassing user-mode hooks utilised by AV/EPP/EDR etc.
 
 ## Hook
 - [InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
