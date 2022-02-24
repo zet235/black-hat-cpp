@@ -64,6 +64,7 @@
 - [herpaderping](https://github.com/jxy-s/herpaderping) - bypasses security products by obscuring the intentions of a process
 - [pinjectra](https://github.com/SafeBreach-Labs/pinjectra) - Pinjectra is a C/C++ OOP-like library that implements Process Injection techniques
 - [PowerLoaderEx](https://github.com/BreakingMalware/PowerLoaderEx) - PowerLoaderEx - Advanced Code Injection Technique for x32 / x64
+- [FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
 
 ## Anti
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
