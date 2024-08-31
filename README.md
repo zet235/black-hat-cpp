@@ -1,21 +1,22 @@
 # Black Hat C++
 
-- [The Things About C++](#the-things-about-c)
-  - [Design Patterns](#design-patterns)
-  - [Bit Flags](#bit-flags)
-  - [JSON](#json)
-  - [Network](#network)
-  - [GUI](#gui)
-- [Security](#security)
-  - [Detector](#detector)
-  - [Memory Hacking](#memory-hacking)
-  - [Anti](#anti)
-  - [Windwos API](#windwos-api)
-  - [Hook](#hook)
-  - [Binary Analysis](#binary-analysis)
-  - [fuzzing](#fuzzing)
-  - [Executable Formats](#executable-formats)
-  - [Backdoor](#backdoor)
+* [Black Hat C++](#black-hat-c)
+* [The Things About C++](#the-things-about-c)
+   * [Design Patterns](#design-patterns)
+   * [Bit Flags](#bit-flags)
+   * [JSON](#json)
+   * [Network](#network)
+   * [GUI](#gui)
+* [Security](#security)
+   * [Detector](#detector)
+   * [Memory Hacking](#memory-hacking)
+   * [Anti](#anti)
+   * [Windwos API](#windwos-api)
+   * [Hook](#hook)
+   * [Binary Analysis](#binary-analysis)
+   * [Fuzzing](#fuzzing)
+   * [Executable Formats](#executable-formats)
+   * [Backdoor](#backdoor)
 
 # The Things About C++
 
@@ -71,11 +72,13 @@
 - [gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
+- [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) - portable header file for C++14 compile-time obfuscation
 
 ## Windwos API
 - [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
 - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
+- [HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP
 - [CallObfuscator](https://github.com/d35ha/CallObfuscator) - Obfuscate specific windows apis with different apis
 - [UnhookMe](https://github.com/mgeeky/UnhookMe) - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
 - [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - header only library to make the life of a reverse engineer much harder.
@@ -92,7 +95,7 @@
 - [retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [PinTools](https://github.com/JonathanSalwan/PinTools) - Pintool example and PoC for dynamic binary analysis
 
-## fuzzing
+## Fuzzing
 - [libfuzzer](https://github.com/Dor1s/libfuzzer-workshop) - Repository for materials of "Modern fuzzing of C/C++ Projects" workshop.
 
 ## Executable Formats
