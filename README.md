@@ -27,6 +27,7 @@
 - [Windows API code snippets](https://stmxcsr.com/micro/winapi-snippets.html)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Google 開源專案 C++ 風格指南](https://tw-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents.html)
+- [360 安全规则集合](https://github.com/Qihoo360/safe-rules)
 
 ## Design Patterns
 - [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
