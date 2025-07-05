@@ -10,6 +10,7 @@
 * [Security](#security)
    * [Detector](#detector)
    * [Memory Hacking](#memory-hacking)
+   * [Loader](#loader)
    * [Anti](#anti)
    * [Windwos API](#windwos-api)
    * [Hook](#hook)
@@ -68,6 +69,10 @@
 - [PowerLoaderEx](https://github.com/BreakingMalware/PowerLoaderEx) - PowerLoaderEx - Advanced Code Injection Technique for x32 / x64
 - [FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
 
+## Loader
+
+- [MemLoader](https://github.com/NtDallas/MemLoader) - Run native PE or .NET executables entirely in-memory. 
+
 ## Anti
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
@@ -80,6 +85,7 @@
 - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
 - [HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP
+- [syscalls-cpp](https://github.com/sapdragon/syscalls-cpp) - A modern C++20 header-only library for advanced direct system call invocation.
 - [CallObfuscator](https://github.com/d35ha/CallObfuscator) - Obfuscate specific windows apis with different apis
 - [UnhookMe](https://github.com/mgeeky/UnhookMe) - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
 - [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - header only library to make the life of a reverse engineer much harder.
