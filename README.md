@@ -16,6 +16,7 @@
    * [Hook](#hook)
    * [Binary Analysis](#binary-analysis)
    * [Fuzzing](#fuzzing)
+   * [Exploit](#exploit)
    * [Executable Formats](#executable-formats)
    * [Backdoor](#backdoor)
 
@@ -79,6 +80,7 @@
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
 - [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) - portable header file for C++14 compile-time obfuscation
+- [obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 
 ## Windwos API
 - [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
@@ -104,6 +106,9 @@
 
 ## Fuzzing
 - [libfuzzer](https://github.com/Dor1s/libfuzzer-workshop) - Repository for materials of "Modern fuzzing of C/C++ Projects" workshop.
+
+## Exploit
+- [pwn++](https://github.com/hugsy/pwn--) - pwn++ is a Windows & Linux library oriented for exploit dev but mostly used to play with modern C++ features
 
 ## Executable Formats
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats
