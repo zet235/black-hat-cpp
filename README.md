@@ -81,6 +81,7 @@
 - [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
 - [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) - portable header file for C++14 compile-time obfuscation
 - [obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- [Obfusk8](https://github.com/x86byte/Obfusk8) - lightweight Obfuscation library based on C++17 / Header Only for windows binaries
 
 ## Windwos API
 - [wow64pp](https://github.com/JustasMasiulis/wow64pp) - A modern c++ implementation of windows heavens gate
