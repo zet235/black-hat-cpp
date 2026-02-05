@@ -72,7 +72,8 @@
 
 ## Loader
 
-- [MemLoader](https://github.com/NtDallas/MemLoader) [![Stars](https://img.shields.io/github/stars/NtDallas/MemLoader?style=social)](https://github.com/NtDallas/MemLoader/stargazers) - Run native PE or .NET executables entirely in-memory. 
+- [MemLoader](https://github.com/NtDallas/MemLoader) [![Stars](https://img.shields.io/github/stars/NtDallas/MemLoader?style=social)](https://github.com/NtDallas/MemLoader/stargazers) - Run native PE or .NET executables entirely in-memory.
+- [donut](https://github.com/TheWover/donut) [![Stars](https://img.shields.io/github/stars/TheWover/donut?style=social)](https://github.com/TheWover/donut/stargazers) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, VBScript, JScript and runs them from memory with parameters. 
 
 ## Anti
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) [![Stars](https://img.shields.io/github/stars/LordNoteworthy/al-khaser?style=social)](https://github.com/LordNoteworthy/al-khaser/stargazers) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
